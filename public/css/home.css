@@ -1,0 +1,51 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+footer{
+
+  text-align:center;
+}
+
+#pagetitle{
+
+  text-align: center;
+}
+
+#menu{
+
+  margin-left: -40px;
+  text-align: center;
+}
+
+li{
+
+  display: inline;
+  padding: 25px;
+}
+
+a.button{
+
+  text-align: center;
+  color: #fff;
+  background-color:#29447E;
+  font-size: 25px;
+  width: 250px;
+  height: 60px;
+  border:20px solid #29447E;
+}
+
+img.medium{
+
+  width:350px;
+  height:250px;
+}
+
+img.align-center{
+
+  display: block;
+  margin: 0px auto;
+}

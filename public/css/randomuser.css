@@ -1,0 +1,73 @@
+body{
+
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  color: black;
+}
+
+header{
+
+  text-align: center;
+}
+
+footer{
+
+  text-align:center;
+}
+
+#pagetitle{
+
+  text-align: center;
+}
+
+#input{
+
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#results{
+
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.small{
+
+  width:250px;
+  height:250px;
+}
+
+img.align-center{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+figcaption{
+
+  text-align: center;
+}
+
+.checkbox{
+
+  width: 15px;
+  height: 15px;
+  margin-top: 25px;
+}
+
+.submit_button{
+
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  color: #fff;
+  background-color:#5B74A8;
+  font-size: 25px;
+  width: 350px;
+  height: 60px;
+  border:1px solid #29447E;
+}
