@@ -31,5 +31,4 @@ Controllers <br>
 
 ## Outside Sources
 * fzaninotto/faker PHP library (github.com/fzaninotto/Faker)
-* barryvdh/laravel-debugbar PHP debugbar for Laravel (github.com/barryvdh/laravel-debugbar)
 * badcom/lorem-ipsum Lorem Ipsum generator (github.com/Badcow/LoremIpsum)
