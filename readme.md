@@ -23,7 +23,8 @@ Developed in PHP.
 
 ## High Level Components
     * User authorization service
-    * Home screen with tools
+    * Home screen with welcome and navigation
+    * Pages for tools
     * Contact page
 
 ## Class Overview
