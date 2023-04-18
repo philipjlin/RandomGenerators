@@ -12,13 +12,27 @@ The lorem ipsum generator outputs random lorem ipsum text, with the amount of wo
 
 The random user generator creates a fake profile of a random individual, with options to display the name, address, phone number, email, username, and password for the profile. A randomly generated avatar image is also displayed.
 
+Outside sources used: 
+fzaninotto/faker PHP library (github.com/fzaninotto/Faker)
+badcom/lorem-ipsum Lorem Ipsum generator (github.com/Badcow/LoremIpsum)
+
+
+## Technologies
+Developed in PHP.
+
+
+## High Level Components
+    * User authorization service
+    * Home screen with tools
+    * Contact page
+
 ## Class Overview
-Controllers <br>
-    - AuthController <br>
-    - PasswordController <br>
-    - HomeController <br>
-    - LoremIpsumController <br>
-    - RandomUserController <br>
+    Controllers
+        - AuthController
+        - PasswordController
+        - HomeController
+        - LoremIpsumController
+        - RandomUserController
 
 
 ## Views
@@ -27,8 +41,3 @@ Controllers <br>
     - RandomUser
     - Welcome
     - Contact
-
-
-## Outside Sources
-* fzaninotto/faker PHP library (github.com/fzaninotto/Faker)
-* badcom/lorem-ipsum Lorem Ipsum generator (github.com/Badcow/LoremIpsum)
