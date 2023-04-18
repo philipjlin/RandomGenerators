@@ -18,7 +18,7 @@ badcom/lorem-ipsum Lorem Ipsum generator (github.com/Badcow/LoremIpsum)
 
 
 ## Technologies
-Developed in PHP.
+Developed in PHP. Deployed as a web application using LAMP stack.
 
 
 ## High Level Components
